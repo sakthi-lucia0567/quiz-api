@@ -6,6 +6,7 @@ function App() {
   return (
     // hello word
     // hello world
+    // hello react
 
     <div className="App">
       <h1>Quiz App</h1>
